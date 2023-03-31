@@ -7,6 +7,25 @@ import { images } from "../../constants";
 
 const works = [
   {
+    title: "BuyMate",
+    description:
+      "Designed developed a Full Stack Web App with backend on Node.js, Express.js and MongoDB database and frontend using ReactJS and state management using Redux.",
+    codeLink: "https://github.com/AAYUSH-droid/BuyMate",
+    projectLink:
+      "https://www.youtube.com/watch?v=y1L-zRZlLM8&ab_channel=aayushsharma",
+    imageUrl: images.buymate,
+    tag: "MERN",
+  },
+  {
+    title: "CareerSpot Jobio",
+    description:
+      "Created a Job tracking app that allows users to SignUp/SignIn, add ,update and delete jobs.Used NodeJs for backend, Express for creating server and ReactJs for frontend.",
+    codeLink: "https://github.com/AAYUSH-droid/CareerSpot",
+    projectLink: "https://main--monumental-gnome-c88b94.netlify.app/",
+    imageUrl: images.careerspot,
+    tag: "MERN",
+  },
+  {
     title: "React Meetup App",
     description:
       "A meetup app made with ReactJs and firebase. Choose the place, Add to favorites, visit!",

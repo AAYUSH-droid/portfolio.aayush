@@ -53,8 +53,11 @@ import headerImg from "../assets/headerImg.png";
 import dataStructues from "../assets/dsa.jpeg";
 import diceGame from "../assets/diceGame.png";
 import GuessNumberGame from "../assets/GuessNumberGame.png";
-
+import buymate from "../assets/buymate.png";
+import careerspot from "../assets/careerspot.png";
 export default {
+  careerspot,
+  buymate,
   headerImg,
   linkedIn,
   github,
